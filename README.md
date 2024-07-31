@@ -1,14 +1,14 @@
-My Github blog: [Phylog](https://phylosopher07.github.io)
+My GitHub blog: [Phylog](https://phylosopher07.github.io)
 
-- 🔭 I’m currently working on KYPT(Korean Youth Physicists' Tournament) (END)
+- 🔭 I’m currently working on ...
 - 🌏 I'm living in South Korea.
-- 🏫 I'm atteding to Gyeonggi Science High School.
-- 📖 I’m currently learning general relativity and jekyll blogs.
+- 🏫 I'm attending Gyeonggi Science High School.
+- 📖 I’m currently learning general relativity and Jekyll blogs.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: gs22091@gs.hs.kr / pianoforte0203@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 
